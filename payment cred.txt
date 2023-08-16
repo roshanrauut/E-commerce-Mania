@@ -1,0 +1,24 @@
+PayPal buyer
+id: roshanbuyer@gmail.com
+pswd: Raut@123
+
+
+PayPal
+https://developer.paypal.com/dashboard/applications/sandbox
+ID: roshanraut250@gmail.com
+pswd: Nanda@651467
+
+
+All commands:
+Change dieractory: cd..
+
+Goto SHopping Mania folder
+>cd ShoppingMania
+
+run command: python manage.py runserver
+
+
+
+Already registered User:
+RoshanRaut12
+Soniya@123

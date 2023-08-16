@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\static\\app",
+    "\\app\\static\\app\\images",
+    "\\app\\static\\app\\images\\banner",
+    "\\app\\static\\app\\js",
+    "\\app\\templates",
+    "\\app\\templates\\app",
+    "\\media\\productimg",
+    "\\shoppingMania"
+  ],
+  "SelectedNode": "\\app\\templates\\app\\topwear.html",
+  "PreviewInSolutionExplorer": false
+}
